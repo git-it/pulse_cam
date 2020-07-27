@@ -1,0 +1,6 @@
+tkinter>=8.6.8
+PIL>=6.2.1
+opencv-python>=4.2.0.32
+matplotlib>=3.1.1
+numpy>=1.17.4
+openmdao>=3.2.0
